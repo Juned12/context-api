@@ -1,0 +1,11 @@
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;  
+}
+.single-prod {
+    width: 150px;
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+}
